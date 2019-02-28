@@ -1,0 +1,14 @@
+Class
+Restaurants 
+
+Attributes
+Name of Restaurants: String
+Type of Restaurant: String
+Hours: Interger
+Rating: Float
+
+Methods
+Order Food
+Call
+Track Food
+Review
