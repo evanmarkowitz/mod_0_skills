@@ -1,0 +1,65 @@
+1. Talk to host
+1.1 Scan the restaurant and find the host counter, it will be labeled
+1.2. Introduce yourself and tell the host how many people are in your table
+1.3 The host will bring you to your table.
+
+2. Initial Interaction with Waitor
+2.1 The waitor will bring you your menu
+2.2 The waitor will ask you if you would like a drink
+2.3 If you would like a drink, respond with requested drink
+2.4 The waitor will leave
+2.5 Look over the menu and find your desired food
+
+3. Ordering Food
+3.1. The waitor will arive with drinks
+3.2 The waitor will ask what everyone would like to eat
+3.3 Tell the waitor your desired food
+3.4 The waitor will respond with a question about any food alergies
+3.5 Declare any food alergies
+3.6 The waitor will say Thank you and collect menus
+3.7 The waitor will leave
+
+4. Delivery of Food
+4.1 After a period of time the waitor will arrive with food.
+4.2 The waitor will announce each dish
+4.3 When your dish is called say "here"
+4.4 The waitor will bring the dish over to you.
+4.5 Once everyone is served you will eat your dish
+
+5. Cleanup of food
+5.1 When you are done, place your napkin over the plate
+5.2 When everyone at your table is done your waitor will take the plates.
+
+6. Desert
+6.1 The waitor will arrive with desert menus
+6.2 You will accept the menu
+6.3 You will scan the menu
+6.4 You will decide you do not want desert
+6.5 the waitor will come over
+6.6 The waitor will ask for your dessert order
+6.7 You will respond with "nothing for dessert"
+6.8 The waitor will take the menu
+
+7. The Check.
+7.1 The waitor will bring the check over
+7.2 You will take the check
+7.3 You will scan the check to make sure the items are correct
+7.4 You will put your credit card on top of the check
+7.5 The waitor will pick up the check.
+7.6 The waitor will charge your credit card.  
+
+The tip
+8.1 The waitor will bring the check back
+8.2 You will pick up the pen
+8.3 You will calculate the tip
+8.4	You will write the tip on the check
+8.5 You will add the tip to the total 
+8.6 You will write down total on the check
+8.7 You will sign your name
+
+Leaving
+9.1 You will get up from your chair
+9.2 You will walk to the door
+9.3 You will thank your server on the way out
+9.4 You will leave the door
+
