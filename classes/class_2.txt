@@ -1,0 +1,15 @@
+Class
+Users
+
+Attributes
+Name: String
+Average Order Value: Float
+Last Order: Date
+Number of Reviews: Interger
+
+Method
+Order Food 
+Review Restaurant
+Refer a friend
+Change Password
+
