@@ -1,0 +1,12 @@
+Class
+Promotions
+
+Attributes
+Type of Deal: string
+Percent off: Interger
+Date Expires: Date
+Free Delivery: Boolean
+
+Methods
+Add to cart
+Accept coupon
