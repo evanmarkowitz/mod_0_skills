@@ -1,10 +1,10 @@
 Class
-Restaurants 
+Restaurant
 
 Attributes
 Name of Restaurants: String
 Type of Restaurant: String
-Hours: Interger
+Hours: Range
 Rating: Float
 
 Methods
